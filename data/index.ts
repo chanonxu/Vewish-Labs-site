@@ -11,7 +11,7 @@ export const gridItems = [
     className: "md:col-span-7 md:row-span-3",
     imgClassName: "w-full h-full opacity-50",
     titleClassName: "justify-end",
-    img: "/me.jpg",
+    img: "/ds.jpg",
     spareImg: "",
   },
   {
